@@ -1,0 +1,65 @@
+JAVA :
+======
+Deffination:
+------------
+Java is one of the platform indepedent, high level, robust, object oriented, secure programming language.
+
+Background:
+-----------
+Java was mainly developed by James Gosling in year 1995 in sun micro system and the previuos name of the 
+java is oak in year 2009 sun microsystem was changed the name oak to java.
+
+The main features of Java:
+--------------------------
+1. Platform Idepedent
+2. High Level
+3. Robust
+4. Object oriented
+5. Secure
+6. Simple
+
+OOPS Concept in Java;
+--------------------
+Deffination: Object oriented programming is methadology or paradigm to design program by using class and object.
+
+OOPs Concept in Java:
+---------------------
+1. Object
+2. Class
+3. Polymorphism
+4. Inheritance
+5. Abstarction
+6. Encapsulation
+
+1. Object: Object is an entity  which is having both state and behaviour.
+Ex: Table, Chaire, Bench Water Bottle etc
+
+2. Class: Collection of object is called as class
+
+3. Polymorphism: A sigle task is performed in different way  is called polymorphism.
+Ex: Method Overloading and Method Overriding
+
+4. Inheritance: Inheritance is nothing but it is the process of aquaring  method or varriable or data from parent class
+to child class is called inheritence.
+Ex:Code Reusebility
+
+5. Abstraction: Hiding the internal details and showing external functionality is called as abstarction.
+Ex: Abstract class and Interface
+
+6. Encapsulation: It is the process of binding the code and data togetherly into a single unit is called as encapsulation.
+Ex: A java class
+
+Java Varriables: Java Varribles are nothing but these are the memory locations in java.
+Types of Java varribles:
+1. Local varriables
+2. Instance varribles
+3. Static varribles
+1. Local varribles: The varribles declare inside the body of method is called as local varriables
+loacl avrribles cannot declared with name of static keyword
+
+2. Instance varribels: The varribles declare inside the class but outside the body of method are called as Instance varribles
+
+3. Static varriables: The varriables declare with the help of static keyword are called as static varriables
+
+Data Types in Java:
+================
